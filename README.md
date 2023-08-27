@@ -27,4 +27,5 @@
 |   스터디날짜    | 주제 | 발표자 |    질문목록 |
 |:----------:|:---:|:----------:|:----------:|
 | 2023.08.20 | [1. 코딩 중 겪는 혼란에 대한 이해, 2. 신속한 코드 분석](https://github.com/Dev-Prison/Programmers-Brain/pull/2) | 이용훈 | [Issue#1](https://github.com/Dev-Prison/Programmers-Brain/issues/1) |
-| 2023.08.27 | [3. 제목 4. 제목](링크) | 이름 | [Issue#2](링크) |
+| 2023.08.27 | [3. 프로그래밍 문법 빠르게 배우기 4. 복잡한 코드 읽는 방법](https://github.com/Dev-Prison/Programmers-Brain/blob/main/ynoolee/ch3_ch4.md) | 이연우 | [Issue#2](https://github.com/Dev-Prison/Programmers-Brain/issues/3) |
+
