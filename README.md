@@ -29,4 +29,6 @@
 | 2023.08.20 | [1. 코딩 중 겪는 혼란에 대한 이해, 2. 신속한 코드 분석](https://github.com/Dev-Prison/Programmers-Brain/pull/2) | 이용훈 | [Issue#1](https://github.com/Dev-Prison/Programmers-Brain/issues/1) |
 | 2023.08.27 | [3. 프로그래밍 문법 빠르게 배우기 4. 복잡한 코드 읽는 방법](https://github.com/Dev-Prison/Programmers-Brain/blob/main/ynoolee/ch3_ch4.md) | 이연우 | [Issue#3](https://github.com/Dev-Prison/Programmers-Brain/issues/3) |
 | 2023.09.03 | [5. 코드를 더 깊이 있게 이해하기](https://morning-paprika-8fa.notion.site/ecfe0a2bb50a4d6393a3921205728383?pvs=4) | 김형욱 | [Issue#7](https://github.com/Dev-Prison/Programmers-Brain/issues/7) |
-
+| 2023.09.10 | [6. 코딩 문제 해결을 더 잘하려면 / 7. 생각의 버그](https://kimsumi.notion.site/CH-6-CH-7-7801eee4507b495781c6b4b44222b3a8) | 김수미 | [Issue#11](https://github.com/Dev-Prison/Programmers-Brain/issues/11) |
+| 2023.09.17 | [8. 명명을 잘하는 방법](https://morning-paprika-8fa.notion.site/4be017d7e94d4aff856b124e2f3fab44?pvs=4) | 김형욱 | [Issue#12](https://github.com/Dev-Prison/Programmers-Brain/issues/12) |
+| 2023.09.24 | [9. 나쁜코드와 인지 부하를 방지하는 두 가지 프레임워크 - 10. 복잡한 문제 해결을 더 잘하려면](https://github.com/Dev-Prison/Programmers-Brain/blob/main/ynoolee/ch9_10.md) | 이연우 | [Issue#15](https://github.com/Dev-Prison/Programmers-Brain/issues/15) |
